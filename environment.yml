@@ -1,0 +1,11 @@
+name: dataset-caucasus-gchem-2023
+channels:
+  - davasey
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - geoscripts
+  - ipykernel
+  - jupyter
