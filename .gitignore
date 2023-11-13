@@ -1,2 +1,4 @@
 processed/
 *.pdf
+locations.csv
+!map_data/*.pdf
