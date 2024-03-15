@@ -2,5 +2,5 @@ processed/
 *.pdf
 *.jpg
 *.Identifier
-locations.csv
+locations*
 !map_data/*.pdf
