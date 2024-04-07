@@ -10,3 +10,4 @@ dependencies:
   - ipykernel
   - jupyter
   - openpyxl
+  - pypdf
