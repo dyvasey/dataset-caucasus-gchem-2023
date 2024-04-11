@@ -4,3 +4,5 @@ processed/
 *.Identifier
 locations*
 !map_data/*.pdf
+map_data/map_processing/*.gpkg
+map_data/map_processing/*.csv
