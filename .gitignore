@@ -1,5 +1,6 @@
 processed/
 earth_chem/
+draft_figs/
 *.pdf
 *.jpg
 *.Identifier
