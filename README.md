@@ -11,4 +11,4 @@ And then activate the environment:
 ```
 conda activate dataset-caucasus-gchem-2023
 ```
-To reproduce the figures and tables currently used in a manuscript submitted to _Geochemistry, Geophysics, Geosystems_, run all cells in the Jupyter Notebooks `organize_qe_data.ipynb` and `organize_raw_data.ipynb` before running the cells in the `draft_figs.ipynb` notebook. 
+To reproduce the figures and tables currently used in a manuscript submitted to _Geochemistry, Geophysics, Geosystems_, run all cells in the Jupyter Notebooks `organize_qe_data.ipynb` and `organize_raw_data.ipynb` before running the cells in the `draft_figs.ipynb` notebook. To reproduce ESRI shapefiles used to construct maps in this manuscript, additionally run the `map_data/map_processing/style.ipynb` notebook, which processes OGC GeoPackages included in the `map_data/digitized_maps` directory.
