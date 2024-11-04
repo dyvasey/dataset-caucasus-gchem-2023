@@ -13,21 +13,21 @@ G22042,Basalt
 G22044,Diabase
 G22045,Diabase
 G22046C,Diabase
-G22049,Volcaniclastic Breccia
-G22051,Volcaniclastic Breccia
-G22053,Volcaniclastic Breccia
+G22049,Volcaniclastic
+G22051,Volcaniclastic
+G22053,Volcaniclastic
 G22063,Basalt
 G22065,Diabase
-G22066,Volcaniclastic Breccia
-G22067,Volcaniclastic Breccia
+G22066,Volcaniclastic
+G22067,Volcaniclastic
 G22068A,Diabase
 G22068B,Diabase
 G22068C,Andesite
-G22069,Volcaniclastic Breccia
+G22069,Volcaniclastic
 G22076,Gabbro
 G22081,Gabbro
 G22091,Diabase
-G22092,Volcaniclastic Breccia
+G22092,Volcaniclastic
 G22094,Diabase
 G22096,Felsic Intrusive
 G22108A,Andesite
@@ -37,3 +37,4 @@ G22111,Andesite
 G22114,Andesite
 G22118,Basalt
 G22119,Basalt
+100311-3A,Andesite
