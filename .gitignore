@@ -6,7 +6,7 @@ manuscript_figs/
 *.Identifier
 locations*
 !map_data/*.pdf
-map_data/map_processing/shapefiles
-map_data/map_processing/*.csv
+maps/map_processing/shapefiles
+mas/map_processing/*.csv
 prelim_notebooks/*.csv
 Table1.csv
