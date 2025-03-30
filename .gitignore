@@ -8,5 +8,6 @@ locations*
 !maps/*.pdf
 maps/map_processing/shapefiles
 maps/map_processing/*.csv
+!maps/map_processing/*legends.csv
 prelim_notebooks/*.csv
 Table1.csv
