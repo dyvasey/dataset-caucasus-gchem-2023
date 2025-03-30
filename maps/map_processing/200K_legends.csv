@@ -1,18 +1,18 @@
 ﻿Unit,Description
-Q,Placeholder
-N1s1+2,Placeholder
-N12,Placeholder
-Pg3+N11,Placeholder
-Pg23,Placeholder
-Pg1+Pg21+2,Placeholder
-Cr2,Placeholder
-Cr2t-d,Placeholder
-Cr2cm,Placeholder
-Cr1,Placeholder
-Cr1ap+al,Placeholder
-Cr1b,Placeholder
-Cr1v+h,Placeholder
-J3km,Placeholder
-cJ2bt,Placeholder
-J2bt,Placeholder
-J2bj,Placeholder
+Q,"Quaternary deposits, undifferentiated"
+N1s1+2,"Miocene mudstone, sandstone, marl, conglomerate"
+N12,"Micoene mudstone, sandstone, marl, limestone"
+Pg3+N11,"Oligocene mudstone, sandstone, marl"
+Pg23,Eocene marl
+Pg1+Pg21+2,Paleocene limestone
+Cr2,"Upper Cretaceous sedimentary rocks, undifferentiated "
+Cr2t-d,"Upper Cretaceous limestone, marl"
+Cr2cm,"Upper Cretaceous sandstone, mudstone, limestone"
+Cr1,"Lower Cretaceous sedimentary rocks, undifferentiated"
+Cr1ap+al,"Lower Cretaceous mudstone, marl, limestone, sandstone"
+Cr1b,Lower Cretaceous limestone
+Cr1v+h,"Lower Cretaceous sandstone, clonglomerate, limestone"
+J3km,"Upper Jurassic mustone, sandstone, conflomerate, volcanic rocks"
+cJ2bt,"Middle Jurassic sandstone, shale"
+J2bt,"Middle Jurassic shale, sandstone"
+J2bj,"Middle Jurassic volcanic and volcaniclastic rocks, sandstone, shale"

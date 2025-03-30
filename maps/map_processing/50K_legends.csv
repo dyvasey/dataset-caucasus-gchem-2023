@@ -1,17 +1,17 @@
 ﻿Unit,Description
-Q,Placeholder
-K1b,Placeholder
-K1brdashh,Placeholder
-J3km+t,Placeholder
-J2hd4,Placeholder
-J2hd3,Placeholder
-J2hd2,Placeholder
-J2hd1,Placeholder
-J2s2,Placeholder
-J13s1,Placeholder
-J12ms2,Placeholder
-Tms1,Placeholder
-Tmr2,Placeholder
-Tmr1,Placeholder
-C12-Tch,Placeholder
-C11kz,Placeholder
+Q,"Quaternary deposits, undifferentiated"
+K1b,Upper Cretaceous limestone
+K1brdashh,Upper Cretaceous limestone. conglomerate
+J3km+t,"Upper Jurassic shale, sandstone, conglomerate"
+J2hd4,"Middle Jurassic volcaniclastic rocks, sandstone"
+J2hd3,Middle Jurassic volcaniclastic and volcanic rocks
+J2hd2,Middle Jurassic volcaniclastic and shallow intrusive rocks 
+J2hd1,"Middle Jurassic volcaniclastic rocks, volcanic rocks, sandstone"
+J2s2,"Middle Jurassic sandstone, shale"
+J13s1,"Lower Jurassic shale, sandstone"
+J12ms2,"Lower Jurassic shale, sandstone"
+Tms1,"Triassic slate, shale, sandstone"
+Tmr2,"Triassic shale, sandstone, shallow intrusive rocks"
+Tmr1,"Triassic conglomerate, sandstone, shale"
+C12-Tch,"Carboniferous shale, sandstone, conglomerate, limestone"
+C11kz,"Carboniferous shale, sandstone, limestone"
