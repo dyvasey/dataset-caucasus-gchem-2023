@@ -1,18 +1,18 @@
-﻿Unit,Description
-Q,"Quaternary deposits, undifferentiated"
-N1s1+2,"Miocene mudstone, sandstone, marl, conglomerate"
-N12,"Micoene mudstone, sandstone, marl, limestone"
-Pg3+N11,"Oligocene mudstone, sandstone, marl"
-Pg23,Eocene marl
-Pg1+Pg21+2,Paleocene limestone
-Cr2,"Upper Cretaceous sedimentary rocks, undifferentiated "
-Cr2t-d,"Upper Cretaceous limestone, marl"
-Cr2cm,"Upper Cretaceous sandstone, mudstone, limestone"
-Cr1,"Lower Cretaceous sedimentary rocks, undifferentiated"
-Cr1ap+al,"Lower Cretaceous mudstone, marl, limestone, sandstone"
-Cr1b,Lower Cretaceous limestone
-Cr1v+h,"Lower Cretaceous sandstone, clonglomerate, limestone"
-J3km,"Upper Jurassic mustone, sandstone, conflomerate, volcanic rocks"
-cJ2bt,"Middle Jurassic sandstone, shale"
-J2bt,"Middle Jurassic shale, sandstone"
-J2bj,"Middle Jurassic volcanic and volcaniclastic rocks, sandstone, shale"
+﻿Unit,New_Symbol,Description
+Q,Q,"Quaternary deposits, undifferentiated"
+N1s1+2,Ms2,"Miocene mudstone, sandstone, marl, conglomerate"
+N12,Ms1,"Micoene mudstone, sandstone, marl, limestone"
+Pg3+N11,Os,"Oligocene mudstone, sandstone, marl"
+Pg23,Es,Eocene marl
+Pg1+Pg21+2,Ps,Paleocene limestone
+Cr2,K2,"Upper Cretaceous sedimentary rocks, undifferentiated "
+Cr2t-d,K2s2,"Upper Cretaceous limestone, marl"
+Cr2cm,K2s1,"Upper Cretaceous sandstone, mudstone, limestone"
+Cr1,K1s,"Lower Cretaceous sedimentary rocks, undifferentiated"
+Cr1ap+al,K1s3,"Lower Cretaceous mudstone, marl, limestone, sandstone"
+Cr1b,K1s2,Lower Cretaceous limestone
+Cr1v+h,K1s1,"Lower Cretaceous sandstone, clonglomerate, limestone"
+J3km,J3s,"Upper Jurassic mustone, sandstone, conglomerate, volcanic rocks"
+cJ2bt,J2s2,"Middle Jurassic sandstone, shale"
+J2bt,J2s1,"Middle Jurassic shale, sandstone"
+J2bj,J2v,"Middle Jurassic volcanic and volcaniclastic rocks, sandstone, shale"

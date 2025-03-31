@@ -1,17 +1,17 @@
-﻿Unit,Description
-Q,"Quaternary deposits, undifferentiated"
-K1b,Upper Cretaceous limestone
-K1brdashh,Upper Cretaceous limestone. conglomerate
-J3km+t,"Upper Jurassic shale, sandstone, conglomerate"
-J2hd4,"Middle Jurassic volcaniclastic rocks, sandstone"
-J2hd3,Middle Jurassic volcaniclastic and volcanic rocks
-J2hd2,Middle Jurassic volcaniclastic and shallow intrusive rocks 
-J2hd1,"Middle Jurassic volcaniclastic rocks, volcanic rocks, sandstone"
-J2s2,"Middle Jurassic sandstone, shale"
-J13s1,"Lower Jurassic shale, sandstone"
-J12ms2,"Lower Jurassic shale, sandstone"
-Tms1,"Triassic slate, shale, sandstone"
-Tmr2,"Triassic shale, sandstone, shallow intrusive rocks"
-Tmr1,"Triassic conglomerate, sandstone, shale"
-C12-Tch,"Carboniferous shale, sandstone, conglomerate, limestone"
-C11kz,"Carboniferous shale, sandstone, limestone"
+﻿Unit,New_Symbol,Description
+Q,Q,"Quaternary deposits, undifferentiated"
+K1b,K1s2,Lower Cretaceous limestone
+K1brdashh,K1s1,"Lower Cretaceous limestone, conglomerate"
+J3km+t,J3s,"Upper Jurassic shale, sandstone, conglomerate"
+J2hd4,J2v4,"Middle Jurassic volcaniclastic rocks, sandstone"
+J2hd3,J2v3,Middle Jurassic volcaniclastic and volcanic rocks
+J2hd2,J2v2,Middle Jurassic volcaniclastic and shallow intrusive rocks 
+J2hd1,J2v1,"Middle Jurassic volcaniclastic rocks, volcanic rocks, sandstone"
+J2s2,J2s,"Middle Jurassic sandstone, shale"
+J13s1,J1s2,"Lower Jurassic shale, sandstone"
+J12ms2,J1s1,"Lower Jurassic shale, sandstone"
+Tms1,Trs3,"Triassic slate, shale, sandstone"
+Tmr2,Trs2,"Triassic shale, sandstone, shallow intrusive rocks"
+Tmr1,Trs1,"Triassic conglomerate, sandstone, shale"
+C12-Tch,Cs2,"Carboniferous shale, sandstone, conglomerate, limestone"
+C11kz,Cs1,"Carboniferous shale, sandstone, limestone"
