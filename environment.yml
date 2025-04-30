@@ -14,4 +14,4 @@ dependencies:
   - xlrd
   - pip
   - pip:
-      - git+https://github.com/dyvasey/geoscripts
+      - git+https://github.com/dyvasey/geoscripts.git@v0.3.0
