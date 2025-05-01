@@ -1,5 +1,5 @@
 # 2023 Greater Caucasus Geochemistry Dataset
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dyvasey/dataset-caucasus-gchem-2023/HEAD) [![DOI](https://zenodo.org/badge/427115539.svg)](https://doi.org/10.5281/zenodo.8298262)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dyvasey/dataset-caucasus-gchem-2023/HEAD) [![DOI](https://zenodo.org/badge/427115539.svg)](https://doi.org/10.5281/zenodo.8298262)
 
 This repository contains Python code used to process, analyze, and visualize major and trace element geochemical data from the Greater Caucasus that was collected primarily in 2023 at Washington State University. It accompanies the following manuscript:
 
