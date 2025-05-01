@@ -1,7 +1,7 @@
 # 2023 Greater Caucasus Geochemistry Dataset
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dyvasey/dataset-caucasus-gchem-2023/HEAD)
 
-This repository contains Python code used to process, analyze, and visualize major and trace element geochemical data from the Greater Caucasus that was collected primarily in 2023 at Washington State University. It accopmanies the following manuscript:
+This repository contains Python code used to process, analyze, and visualize major and trace element geochemical data from the Greater Caucasus that was collected primarily in 2023 at Washington State University. It accompanies the following manuscript:
 
 Vasey, D.A., Cowgill, E., VanTongeren, J.A., and Anderson, C.O., accepted, Relict Back-Arc Basin Crustal Structure in the Western Greater Caucasus, Georgia: _Geochemistry, Geophysics, Geosystems_.
 
